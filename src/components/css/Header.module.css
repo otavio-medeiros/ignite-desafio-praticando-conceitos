@@ -1,0 +1,27 @@
+.headerComponent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--gray-700);
+  height: 25vh;
+  border: none;
+  padding-top: 2px;
+}
+
+.to,
+.do {
+  font-weight: 900;
+  font-size: 2.5rem;
+}
+
+.to {
+  color: var(--blue);
+}
+
+.do {
+  color: var(--purple-dark);
+}
+
+.rocket {
+  padding-right: 0.75rem;
+}

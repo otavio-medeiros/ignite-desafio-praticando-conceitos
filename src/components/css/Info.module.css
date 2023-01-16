@@ -1,0 +1,33 @@
+.infoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 0.845rem;
+  margin-bottom: 1.5rem;
+}
+
+.createdContainer,
+.finishedContainer {
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+
+.created {
+  color: var(--blue);
+  margin-right: 0.625rem;
+}
+
+.finished {
+  color: var(--purple);
+  margin-right: 0.625rem;
+}
+
+.createdCounter,
+.finishedCounter {
+  color: var(--gray-200);
+  padding: 0.125rem 0.625rem;
+  background-color: var(--gray-400);
+  border-radius: 999px;
+  text-align: center;
+  line-height: 17px;
+}

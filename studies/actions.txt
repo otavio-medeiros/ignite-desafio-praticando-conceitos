@@ -1,0 +1,28 @@
+https://efficient-sloth-d85.notion.site/Desafio-01-Praticando-os-conceitos-do-ReactJS-91fd63dd1a5b4a2796152de293ec1074#5d65777c3d4942009e3fe381f08d3c54
+
+$ npm install uuid --save
+$ npm install @types/uuid --save-dev
+
+https://phosphoricons.com/
+
+  $ npm install phosphor-react --save
+
+https://tailwindcss.com/docs/guides/create-react-app (NOT OK)
+
+https://blog.logrocket.com/setting-up-dev-environment-react-vite-tailwind/
+
+$ npm install tailwindcss postcss autoprefixer --save-dev
+$ npx tailwindcss init
+
+  tailwind.config.js
+  ------------------
+
+    ...
+    content: [
+        "./src/**/*.{js,jsx,ts,tsx}",
+    ],
+    ...
+
+https://www.figma.com/file/57ldiBWTDZfmjxQgvfpgOH/ToDo-List-(Copy)?node-id=43%3A88&t=qEISUMlKLOA2dT6Z-0
+
+https://beta.reactjs.org/learn/thinking-in-react
